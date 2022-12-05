@@ -1,0 +1,2 @@
+2022-12-05T05:38:10+00:00 CRITICAL Out of memory (allocated 111149056) (tried to allocate 32768 bytes) in C:\xampp\htdocs\pro4\wp-content\plugins\google-listings-and-ads\src\Jobs\ProductSyncStats.php on line 1
+
